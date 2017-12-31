@@ -1,1 +1,1 @@
-## Generator-SFDx generateed project
+# Generator-SFDx generated project
